@@ -2,7 +2,7 @@
 
 # Hi there👋
 
-🚀 **Software Developer | Educator**
+🚀 **Software Engineer | Educator**
 
 My name is Ali and I'm a software develoeper interested in developing SaaS applications. 
 
