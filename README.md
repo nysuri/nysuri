@@ -4,7 +4,7 @@
 
 🚀 **Software Developer | Educator**
 
-My name is Alim and I'm a software develoeper interested in developing SaaS applications. 
+My name is Ali and I'm a software develoeper interested in developing SaaS applications. 
 
 I Recently built **FileShare**, a platform that lets users **easily upload, share, and manage files securely**. Check it out <a href="https://github.com/nysuri/file-share" target="_blank">here</a>
 
