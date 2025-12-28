@@ -4,7 +4,7 @@
 
 🚀 **Software Developer | Educator**
 
-Recently built **FileShare**, a platform that lets users **easily upload, share, and manage files securely**. Check it out <a href="https://link-url-here.org](https://github.com/nysuri/file-share" target="_blank">here</a>
+Recently built **FileShare**, a platform that lets users **easily upload, share, and manage files securely**. Check it out <a href="https://github.com/nysuri/file-share" target="_blank">here</a>
 
 **Focus areas**
 - REST APIs & system architecture
